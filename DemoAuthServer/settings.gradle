@@ -1,0 +1,5 @@
+rootProject.name = 'DemoAuthServer'
+include 'client-server'
+include 'uaa-server'
+include 'oauth-server'
+
